@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @el-pspspsps
-- 👀 I’m interested in C++, python and Java 
+- 👀 I’m interested in all languages. 
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... anything web related or game dev :) 
 - 📫 How to reach me ... elpspsp@gmail.com 
